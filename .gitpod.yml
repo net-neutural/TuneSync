@@ -1,0 +1,4 @@
+tasks:
+  init: |
+    yarn install
+    npx expo run:ios
