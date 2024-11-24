@@ -1,4 +1,4 @@
-#tasks:
-  #init: |
-    #yarn install
-    #npx expo run:ios
+tasks:
+  -- init: |
+    		yarn install
+    		npx expo run:ios
